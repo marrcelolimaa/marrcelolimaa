@@ -18,7 +18,28 @@
   &nbsp &nbsp<a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
 </div>
 
+<!-- Languages & Tools -->
+<h3 align="center">📚 Área de Trabalho</h3>
+<div align="center">
+    <table align="center">
+        <tr>
+            <td style="border: none; padding-right: 20px;">
+                <div align="center">
+                  <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
+                  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
+                  <img src="https://skillicons.dev/icons?i=linux" /><br>
+                </div>
+            </td>
+            
+<td style="border: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="Linguagens mais usadas" />
+</td>
+        </tr>
+    </table>
+</div>
 
+<br/>
+<br/>
 
 <!-- GitHub Status e Steam Lado a Lado -->
 <h3 align="center">📊 Status</h3>
