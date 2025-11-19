@@ -18,6 +18,9 @@
   &nbsp &nbsp<a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
 </div>
 
+<h3 align="center"> ---------------------------------------------------------------------------------------------------------------------------------------------</h3>
+<br/>
+
 <!-- Languages & Tools -->
 <h3 align="center">📚 Área de Trabalho</h3>
 <div align="center">
