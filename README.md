@@ -25,17 +25,9 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
   margin-bottom: 20px; > - Social -</h3>
 
 <div align="side">
-
-
   &nbsp &nbsp<a href="mailto:jvictorsantos.dev@gmail.com"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a><br>
-
-
   &nbsp &nbsp<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a><br>
-
-
   &nbsp &nbsp<a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-
-</div>
 </div>
 
 <br/>
