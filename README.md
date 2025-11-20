@@ -1,7 +1,7 @@
 <img align="right" alt="gife4.gif" width="310" src="https://github.com/marrcelolimaa/LimDev/blob/main/imagens/6636d37ba22a391c6353b1436a81f656.gif?raw=true" />
 
 <!-- About Me -->
-<h3 align="left">- Sobre</h3>
+<h3 align="left">- Sobred -</h3>
 <p>
 Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
 
