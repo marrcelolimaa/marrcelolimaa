@@ -20,8 +20,6 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
 </p>
 
 <h3 text-align: center;
-
-
   margin-bottom: 20px; > - Social -</h3>
 
 <div align="side">
