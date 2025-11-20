@@ -1,4 +1,4 @@
-<img align="left" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife4.gif?raw=true" />
+<img align="right" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife4.gif?raw=true" />
 
 <!-- About Me -->
 <h3 align="left">- Sobre</h3>
