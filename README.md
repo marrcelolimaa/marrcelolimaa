@@ -1,12 +1,22 @@
-<img align="right" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife4.gif?raw=true" />
+<img align="right" alt="gife4.gif" width="310" src="https://github.com/marrcelolimaa/LimDev/blob/main/imagens/6636d37ba22a391c6353b1436a81f656.gif?raw=true" />
 
 <!-- About Me -->
 <h3 align="left">- Sobre</h3>
 <p>
-  🌱 Estou estudando para melhorar minhas habilidades de programação.<br>
-  🔭 Além do meu foco em Python, estou aprendendo e consumindo a Inteligência Artificial.<br>
-  💬 Interesse em engenharia de software com IA, Automação, Linguagens e Frameworks, java, etc..<br>
-   <br>
+Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
+
+
+
+
+
+🧠 Foco Principal: Desenvolvimento ativo em Python, focado na construção de soluções e na gestão, manipulação e modelagem de Banco de Dados.
+
+
+
+
+
+💡 Interesses Técnicos: Java, Linguagens e Frameworks para desenvolvimento Full-Stack (Web/Mobile), e Automação de processos.
+
 </p>
 
 <h3 align="side"> - Social:</h3>
