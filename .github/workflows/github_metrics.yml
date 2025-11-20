@@ -1,1 +1,40 @@
+name: GitHub Profile Metrics Card
 
+on:
+  # Roda todos os dias às 1h30m (fuso horário UTC)
+  schedule: [{cron: "30 1 * * *"}]
+  # Permite rodar manualmente a qualquer momento na aba Actions
+  workflow_dispatch:
+
+# ESSENCIAL: Permite que a Action crie/atualize o arquivo SVG
+permissions:
+  contents: write
+
+jobs:
+  github-card:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout do Repositório
+      - uses: actions/checkout@v4
+
+      # 2. Geração das Métricas
+      - name: Generate core metrics
+        # Usa a Action lowlighter/metrics para gerar o card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Nome do arquivo de saída
+          filename: metrics.plugin.github.svg
+          
+          # Configuração base: mostra o card de perfil padrão com as estatísticas principais
+          base: 'header, activity, community, metadata'
+          
+          # Remove as bordas do card
+          hide_border: true 
+          
+          # Aumenta a escala do card em 20%
+          config_output: '{"scale": 1.2}'
+          
+          # Desativa o plugin Steam (pois esta Action é apenas para métricas do GitHub)
+          plugin_steam: no
