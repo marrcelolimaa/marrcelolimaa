@@ -47,7 +47,7 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
             
 <td style="border: none; padding-right: 20px;">
      <img src="https://skillicons.dev/icons?i=git,html,css,nodejs,python,java" /><br>
-     <img src="https://skillicons.dev/icons?i=vscode,github,pwsh,,notion" /><br>
+     <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,notion" /><br>
      <img src="https://skillicons.dev/icons?i=windows,robloxstudio,sqlite" /><br>
 </td>
         </tr>
