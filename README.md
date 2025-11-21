@@ -56,11 +56,6 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
 
 <br/>
 <br/>
-<!-- GitHub Status e Steam Lado a Lado -->
-<h3 align="center"> Status</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="" />
-</div>
 
 <br/>
 <h3 align="center">---------------------------------------------------------------------------------------------------------------------------------------------</h3>
