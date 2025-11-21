@@ -23,7 +23,7 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
   margin-bottom: 20px; > - Social -</h3>
 
 <div align="side">
-  &nbsp &nbsp<a href="mailto:jvictorsantos.dev@gmail.com"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a><br>
+  &nbsp &nbsp<a href="mailto:marceloliima.dev@gmail.com"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a><br>
   &nbsp &nbsp<a href="www.linkedin.com/in/marrcelolima1" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a><br>
   &nbsp &nbsp<a href="https://open.spotify.com/playlist/3v3V0PcwzyRe3c8OYdAsXH?si=6a8b8dd2362f47df" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a><br>
   &nbsp &nbsp &nbsp<a href="https://discord.gg/2T5QHRfUuc" target="_blank"><img width="40px" src="https://skillicons.dev/icons?i=discord" / ></a><br>
