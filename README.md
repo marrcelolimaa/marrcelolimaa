@@ -63,7 +63,7 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
 
 <!-- End -->
 <div align="center">
-    <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true">
-      <img src="https://github.com/Realjoaovictor/marrcelolimaa/blob/main/pngs/gife5.gif?raw=true" alt="gife5/gif" style="width:auto; height:auto" />
+    <a href="https://github.com/marrcelolimaa/LimDev/blob/main/imagens/e6802d9c0538e25efed9d1cdf3414af9.gif?raw=true">
+      <img src="https://github.com/marrcelolimaa/LimDev/blob/main/imagens/e6802d9c0538e25efed9d1cdf3414af9.gif?raw=true" alt="gife5/gif" style="width:auto; height:auto" />
     </a>
 </div>
