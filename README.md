@@ -1,7 +1,6 @@
 <img align="right" alt="gife4.gif" width="310" src="https://github.com/marrcelolimaa/LimDev/blob/main/imagens/6636d37ba22a391c6353b1436a81f656.gif?raw=true" />
 
 <!-- About Me -->
-<h3 align="left">- Sobre -</h3>
 <p>
 Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
 
@@ -19,8 +18,6 @@ Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo 
 
 </p>
 
-<h3 text-align: center;
-  margin-bottom: 20px; > - Social -</h3>
 
 <div align="side">
   &nbsp &nbsp<a href="mailto:marceloliima.dev@gmail.com"><img width="40px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a><br>
