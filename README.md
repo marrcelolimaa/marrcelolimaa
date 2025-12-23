@@ -2,7 +2,8 @@
 
 <!-- About Me -->
 <p>
-Engenharia de Software & Banco de Dados | 🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
+🎯 Backend Developer Especialista em Dados
+  🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
 
 
 
