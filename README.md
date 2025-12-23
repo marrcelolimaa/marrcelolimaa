@@ -7,6 +7,8 @@
 🧠 Foco Principal: Desenvolvimento ativo em Python, focado na construção de soluções e na gestão, manipulação e modelagem de Banco de Dados.<br>
 💡 Interesses Técnicos: Java, Linguagens e Frameworks para desenvolvimento Full-Stack (Web/Mobile), e Automação de processos.<br>
 
+
+
 </p>
 
 
