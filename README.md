@@ -3,7 +3,12 @@
 <!-- About Me -->
 <p>
 🎯 Backend Developer Especialista em Dados
-  🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
+
+
+
+
+  
+🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
 
 
 
