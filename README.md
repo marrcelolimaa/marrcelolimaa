@@ -3,19 +3,9 @@
 <!-- About Me -->
 <p>
   <h3 align="center">🎯 Backend Developer Especialista em Dados</h3>  
-🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.
-
-
-
-
-
-🧠 Foco Principal: Desenvolvimento ativo em Python, focado na construção de soluções e na gestão, manipulação e modelagem de Banco de Dados.
-
-
-
-
-
-💡 Interesses Técnicos: Java, Linguagens e Frameworks para desenvolvimento Full-Stack (Web/Mobile), e Automação de processos.
+🚀 Buscando aprimoramento contínuo em programação e desenvolvimento de sistemas robustos, com foco especial na modelagem e otimização de dados.<br>
+🧠 Foco Principal: Desenvolvimento ativo em Python, focado na construção de soluções e na gestão, manipulação e modelagem de Banco de Dados.<br>
+💡 Interesses Técnicos: Java, Linguagens e Frameworks para desenvolvimento Full-Stack (Web/Mobile), e Automação de processos.<br>
 
 </p>
 
